@@ -1,3 +1,5 @@
+# This project is made by SURAJ KUMAR BARIK and belongs to https://github.com/surajkumarbarik
+
 from tkinter import *
 from tkinter import ttk
 
